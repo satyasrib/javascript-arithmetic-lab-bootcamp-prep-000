@@ -18,7 +18,7 @@ var b = 2.5
 function divide(a, b) {
   return a / b
 }
-var n = 1
+var number = n
 function inc(n) {
-  return n++
+  return number++
 }
