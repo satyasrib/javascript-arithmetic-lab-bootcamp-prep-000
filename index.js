@@ -18,6 +18,7 @@ var b = 2.5
 function divide(a, b) {
   return a / b
 }
+var number = n
 function testincrement(n) {
   return n++
 }
