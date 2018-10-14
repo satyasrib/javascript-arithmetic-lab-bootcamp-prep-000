@@ -18,7 +18,6 @@ var b = 2.5
 function divide(a, b) {
   return a / b
 }
-var n = 0
-function inc(n) {
-console.log(n);
+function testincrement(n) {
+  return n++
 }
