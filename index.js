@@ -8,3 +8,8 @@ var b = 40
 function subtract(a, b) {
   return a - b
 }
+var a = 2
+var b = 3.4
+function multiply(a, b) {
+  return a * b
+}
