@@ -19,6 +19,6 @@ function divide(a, b) {
   return a / b
 }
 var number = n
-function testincrement(n) {
+function ++(n) {
   return number++
 }
