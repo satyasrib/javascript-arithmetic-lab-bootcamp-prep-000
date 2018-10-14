@@ -13,3 +13,9 @@ var b = 3.4
 function multiply(a, b) {
   return a * b
 }
+var a = 5.0
+var b = 2.5
+function divide(a, b) {
+  return a / b
+}
+
