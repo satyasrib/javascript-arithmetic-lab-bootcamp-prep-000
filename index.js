@@ -20,5 +20,5 @@ function divide(a, b) {
 }
 var number = n
 function testincrement(n) {
-  return n++
+  return number++
 }
