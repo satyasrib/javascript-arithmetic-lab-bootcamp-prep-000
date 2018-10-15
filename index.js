@@ -23,4 +23,3 @@ function parsedInt(n) {
 function preserveDecimal(n) {
   return n
 }
-
