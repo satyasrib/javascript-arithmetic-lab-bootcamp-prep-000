@@ -17,7 +17,7 @@ function inc(n) {
 function dec(n) {
   return --n
 }
-function parsedInt(n) {
+function parseInt(n) {
   return n
 }
 function preserveDecimal(n) {
