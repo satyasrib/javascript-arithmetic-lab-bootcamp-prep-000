@@ -23,6 +23,4 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return n
 }
-function makeInt(0x2328) {
-  return 0
-}
+
