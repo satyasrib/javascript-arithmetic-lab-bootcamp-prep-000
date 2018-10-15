@@ -23,3 +23,6 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return n
 }
+function parseInt(n) {
+  return n
+}
